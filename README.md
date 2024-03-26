@@ -1,1 +1,1 @@
-# MIST_GP
+# Group 2 MIST Project 1
