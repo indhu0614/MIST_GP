@@ -20,3 +20,4 @@ This data model is based on the structure of a hypothetical football club.
 ![IMG_0108](https://github.com/indhu0614/MIST_GP/assets/165066443/4eec80ee-30b5-4b01-bc9a-e3f2d07576ed)
 
 ## Data Dictionary: 
+<img width="902" alt="Screenshot 2024-03-30 at 4 31 31 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/04caab77-1f31-4ac9-a504-525aec266f70">
