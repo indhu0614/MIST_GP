@@ -49,3 +49,5 @@ This data model is based on the structure of a hypothetical football club.
 <img width="588" alt="Screenshot 2024-03-30 at 8 54 00 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/98f65bb7-d46a-4180-be16-2df947660995">
 
 <img width="591" alt="Screenshot 2024-03-30 at 8 54 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/edff218d-9973-4cb4-bb5d-ddba819b3f93">
+
+## Queries:
