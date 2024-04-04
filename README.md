@@ -23,8 +23,7 @@ The 'PlayerStats' entity stores information about the performance of each player
 
 The 'Teams' entity consists of the various teams within the club which are made up of many different players. 
 
-
-![IMG_0108](https://github.com/indhu0614/MIST_GP/assets/165066443/4eec80ee-30b5-4b01-bc9a-e3f2d07576ed)
+![Screenshot 2024-04-04 at 1 18 15 PM](https://github.com/indhu0614/MIST_GP/assets/165066443/7634e6cc-79b9-40a2-99a3-62c51a597390)
 
 ## Data Dictionary: 
 <img width="902" alt="Screenshot 2024-03-30 at 4 31 31 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/04caab77-1f31-4ac9-a504-525aec266f70">
