@@ -7,7 +7,7 @@
 1. Leonardo Hodis (@Leonardo-Hodis)
 2. Chris Bohr (@ChrisBohr)
 3. Alphin Philip
-4. Prathu Garg
+4. Prathu Garg (@Prathulu)
 5. Indhu Madineni (@indhu0614)
 
 ## Problem Description:
