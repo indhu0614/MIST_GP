@@ -23,7 +23,7 @@ The 'PlayerStats' entity stores information about the performance of each player
 
 The 'Teams' entity consists of the various teams within the club which are made up of many different players. Similar to the one-to-one relationship between the 'Players' and 'PlayerContracts' entities, each team has its own coach and each coach is in charge of one team. All coaches also have their own contracts. Additionally, teams have different sponsporships and merchandise to promote themselves and raise money for things like equipment. 
 
-![Screenshot 2024-04-04 at 1 18 15 PM](https://github.com/indhu0614/MIST_GP/assets/165066443/7634e6cc-79b9-40a2-99a3-62c51a597390)
+
 
 ## Data Dictionary: 
 <img width="902" alt="Screenshot 2024-03-30 at 4 31 31 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/04caab77-1f31-4ac9-a504-525aec266f70">
