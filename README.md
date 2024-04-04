@@ -4,18 +4,25 @@
 21479 Group 2
 
 ## Team Members:
-1. Leonardo Hodis
-2. Chris Bohr
+1. Leonardo Hodis (@Leonardo-Hodis)
+2. Chris Bohr (@ChrisBohr)
 3. Alphin Philip
 4. Prathu Garg
-5. Indhu Madineni
+5. Indhu Madineni (@indhu0614)
 
 ## Problem Description:
 The given task is to model and build a relational database that stores useful and necessary information for the manager of a football club. The main entities in the model are the Players and Teams entities. "Players" refers to each of the individuals that participate in games and "Teams" refers to the grouping of specific players together. For each player, there is a record of their contract, game statistics, medical history, and brand deals. Moreover, all teams have distinct sponsorships, coaches, practices, games, etc. Our goal is to effectively and efficiently model these various relationships, create sample data, and use said data to populate all of the entities and their attributes. Additionally, we need to construct functioning queries on this data in order for us to obtain valuable insight about how the club operates 
 in a manner that is relevant from a managerial perspective.
 
 ## Data Model:
-This data model is based on the structure of a hypothetical football club. 
+This data model is based on the structure of a hypothetical football club. The 'Players' entity represents each of the individuals that play on the football teams. Each player has a single contract and each contract is designated for a single player, so we placed a one-to-one relationship between these two entities.
+
+Apart from the 'PlayerContracts' entity, the 'Players' entity has three other branches extending from it. The 'Medical Records' entity represents the health and patient history of each player. It includes information on types of injuries, when they occurred, whether they have recovered, and their expected return date to the team. Each player can have multiple medical records, such as records from different healthcare providers, but each medical record will only correspond to a single player. Hence, we established a one-to-many relationship between the 'Players' and 'Medical Records' entities. Similarly, we put a one-to-many relationship between 'Players' and 'Brand Deals' since one player can have brand deals with multiple brands. 
+
+The 'PlayerStats' entity stores information about the performance of each player during their games, such as the number of points, assists, and rebounds they amassed. Each player will have more than one set of statistics that are unique to them. These sets are gathered after every game, so there is a one-to-many relationship between the 'Players' and 'PlayerStats' entities as well as a one-to-many relationship between the 'Games' and 'PlayerStats' entities.
+
+The 'Teams' entity consists of the various teams within the club which are made up of many different players. 
+
 
 ![IMG_0108](https://github.com/indhu0614/MIST_GP/assets/165066443/4eec80ee-30b5-4b01-bc9a-e3f2d07576ed)
 
